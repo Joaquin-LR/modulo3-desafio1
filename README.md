@@ -4,13 +4,13 @@
 
 <h2>Importante</h2>
 <ul>
- <li><p>Cambié los nombres de base.html y estilos.css a index.html y style.css respectivamente con el fin de que no haya problemas con el deploy.</p></li>
- <li><p>Comenté bastante en index.js para que el funcionamiento de código se entienda a la perfección.</p></li>
- <li><p>Vale mucho la pena leer la definición de la variable "n" implementada en index.js</p>
+ <li><p>Cambié los nombres de <b>base.html</b> y <b>estilos.css</b> a <b>index.html</b> y <b>style.css</b> respectivamente con el fin de que no haya problemas con el deploy.</p></li>
+ <li><p>Comenté bastante en <b>index.js</b> para que el funcionamiento del código se entienda a la perfección.</p></li>
+ <li><p>Vale mucho la pena leer la definición de la variable "n" implementada en <b>index.js</b>.</p>
  <li>Probé utilizando la propia cantidad en vez de "n", pero esto hacía el códgio más difícil de entender al ser tan "recursivo".</li>
 </ul>
 
-<p><br>Hecho por Joaquín López Rojas para Desafío Latam, FullStack Javascript, Generación 68.</p>
+<p><br>De Joaquín López Rojas para Desafío Latam, FullStack Javascript, Generación 68.</p>
 
 
 
