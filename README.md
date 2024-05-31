@@ -1,6 +1,7 @@
 <h1>Desafío 1: Calculando el total</h1>
 <p>Módulo 3: Javascript para la web (68) > Unidad 1: Introducción a Javascript</p>
-[LINK DEPLOY](https://joaquin-lr.github.io/modulo3-desafio1/){:target="_blank"}
+[LINK DEPLOY](https://joaquin-lr.github.io/modulo3-desafio1/ target="_blank")
+
 
 
 <h2>Importante</h2>
