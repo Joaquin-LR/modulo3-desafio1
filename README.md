@@ -1,10 +1,10 @@
-#Desafío 1: Calculando el total#
+<h1>Desafío 1: Calculando el total</h1>
 
-<h1>Javascript para la web</h1>
+<h2>Javascript para la web</h2>
 <p>Desafío desarrollado por <b>Joaquín López Rojas</b> para <b>Desafío Latam</b><br>
 Curso 3 de la generación 68 FullStack Javascript</p>
 
-<h2>Link deploy</h2>
+<h3>Link deploy</h3>
 
 
 
