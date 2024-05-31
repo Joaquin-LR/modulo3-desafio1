@@ -1,6 +1,6 @@
-<h1>Desafío 1 - Introducción a Javascript</h1>
+<h1>Desafío 1: Calculando el total</h1>
 <p>Link deploy: https://joaquin-lr.github.io/modulo3-desafio1/</p>
-<p></p>
+<p>Curso 3: Javascript para la web > Unidad 1: Introducción a Javascript</p>
 
 <h2>Importante:</h2>
 <ul>
