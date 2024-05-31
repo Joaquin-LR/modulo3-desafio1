@@ -1,4 +1,4 @@
-#Desafío 1: Calculando el total
+#Desafío 1: Calculando el total#
 
 <h1>Javascript para la web</h1>
 <p>Desafío desarrollado por <b>Joaquín López Rojas</b> para <b>Desafío Latam</b><br>
