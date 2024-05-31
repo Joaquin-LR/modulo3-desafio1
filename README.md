@@ -1,7 +1,10 @@
-<h1>Módulo 3: Javascript para la web</h1>
-<p>Introducción a Javascript > Desafío 1: Calculando el total</p>
+#Desafío 1: Calculando el total
+
+<h1>Javascript para la web</h1>
+<p>Desafío desarrollado por Joaquín López Rojas para Desafío Latam</p>
 
 <h2>Link deploy</h2>
+
 
 
 
