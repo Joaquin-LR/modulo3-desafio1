@@ -1,8 +1,16 @@
 <h1>Desafío 1 - Introducción a Javascript</h1>
 <p>Link deploy: https://joaquin-lr.github.io/modulo3-desafio1/</p>
+<p></p>
 
 <h2>Importante:</h2>
-<p>Cambié el nombre de base.html y estilos.css a index.html y style.css respectivamente para que se pueda mostrar bien lo del deploy.</p>
+<ul>
+ <li><p>Cambié los nombres de base.html y estilos.css a index.html y style.css respectivamente con el fin de que no haya problemas con el deploy.</p></li>
+ <li><p>Comenté bastante en index.js para que el funcionamiento de código se entienda a la perfección.</p></li>
+</ul>
+
+<p><br>Hecho por Joaquín López Rojas para Desafío Latam, FullStack Javascript, Generación 68.</p>
+
+
 
 
 
